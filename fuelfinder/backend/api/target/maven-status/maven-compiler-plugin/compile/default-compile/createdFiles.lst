@@ -1,0 +1,6 @@
+com/fuelfinder/api/controller/StationController.class
+com/fuelfinder/FuelFinderApplication.class
+com/fuelfinder/api/model/Station.class
+com/fuelfinder/api/kafka/PriceConsumer.class
+com/fuelfinder/api/model/Station$StationBuilder.class
+com/fuelfinder/api/repo/StationRepo.class
